@@ -23,3 +23,5 @@ gcr.io/google_containers/IMAGE_NAME:IMAGE_TAG
 
 比如： 
 gcr.io/google_containers/kube-apiserver-amd64:v1.10.3
+
+## 友情链接：https://github.com/jeffyjf/docker-library
